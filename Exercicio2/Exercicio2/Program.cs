@@ -15,7 +15,7 @@ namespace Course
 
             double area = 3.14159 * raio * raio;
 
-            Console.WriteLine("O valor da área é :" +  area.ToString());
+            Console.WriteLine("O valor da área é : " +  area.ToString());
 
 
 
